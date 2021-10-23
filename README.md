@@ -23,25 +23,27 @@
 </div>
 
 
+<!-- ABOUT THE REPO !-->
+## About This Repository
+
+So, what is this?
+I decided to make a repository for projects I made when I was bored.
+I will be moving some older repos here that were made as a joke.
 
 
+### Made With
 
+Most things I make are made with [Batch.](https://en.wikipedia.org/wiki/Batch_file)
+But, I am looking forward to trying out [Python!](https://www.python.org/)
 
+<!-- CONTACT -->
+## Contact
 
+You can either contact me via my email, kinjapwnedyou@protonmail.com or via my Twitter! [@kinjabutreal](https://twitter.com/kinjabutreal)
 
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/realkinja/stuffimade4fun?color=%23FFA500&style=for-the-badge

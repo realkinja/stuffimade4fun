@@ -41,7 +41,6 @@ But, I am looking forward to trying out [Python!](https://www.python.org/)
 
 You can either contact me via my email, kinjapwnedyou@protonmail.com or via my Twitter! [@kinjabutreal](https://twitter.com/kinjabutreal)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

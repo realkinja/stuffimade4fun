@@ -44,6 +44,13 @@ You can either contact me via my email, kinjapwnedyou@protonmail.com or via my T
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [BAT2EXE](https://github.com/islamadel/bat2exe) - Tool I used to convert .bat files into .exes.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/realkinja/stuffimade4fun?color=%23FFA500&style=for-the-badge
 [contributors-url]: https://github.com/realkinja/stuffimade4fun/graphs/contributors
